@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+    /* color part  */
+    --color-menuC: #181818;
+    --color-primary: #5956E8;
+    /* color part  */
+    /* container part  */
+    --spacing-headercontainer: 1170px; 
+    /* container part  */
+    /* redius part  */
+    --radius-10: 10px; 
+    /* redius part  */
+    /* google fonts part  */
+    --font-inter: "Inter", "sans-serif"; 
+    /* google fonts part  */
+    /* leading part  */
+    --spacing-80: 80px; 
+    /* leading part  */
+  }
+ 
